@@ -1,3 +1,6 @@
+import os
+import shutil
+
 def main():
     print("Welcome to duck stuff")
     choose = input("[1] - Create file \n[2] - PLACEHOLDER \n: ")
